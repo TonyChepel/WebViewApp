@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836411540782",
+    "project_id": "covely-b67db",
+    "storage_bucket": "covely-b67db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836411540782:android:b6aa278c37ab4805a4a6bf",
+        "android_client_info": {
+          "package_name": "com.covely.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836411540782-n25h4fm3af30hj4rdd1am540a1n2ajvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBh7FHDJIIob_Vy6G3ryDF0sRtp9X5Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836411540782-n25h4fm3af30hj4rdd1am540a1n2ajvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
